@@ -20,6 +20,9 @@ Our goal is to launch an open alpha of TheMatrix by Q3 2023 with the following f
 We welcome contributions from anyone interested in helping us build the foundation for an open, decentralized virtual world. Over time, we aim to transition governance and development of TheMatrix to the community.
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
+
+It's time to build
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
