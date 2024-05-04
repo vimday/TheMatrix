@@ -21,7 +21,15 @@ We welcome contributions from anyone interested in helping us build the foundati
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
+
+Crypto Never Dies, Web3 Is Coming...
+
+We owe the past, and the future.
+
+It’s time to be a Techno-Optimist.
+
 It's time to build
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
