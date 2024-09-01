@@ -28,7 +28,7 @@ We owe the past, and the future.
 
 It’s time to be a Techno-Optimist.
 
-It's time to build
+It's time to build, coding for dream.
 
 
 ## License
